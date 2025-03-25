@@ -172,3 +172,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+Images/01_Images_Raw
+Images/images_Processed/
